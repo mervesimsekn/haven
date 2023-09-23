@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">haven</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Sign In Fragment Strings -->
+    <string name="sign_in">Giriş Yap</string>
+    <string name="dont_have_an_account">Hesabınız Yok Mu? Kayıt Ol</string>
+    <string name="error_sign_in">Giriş Başarısız. Lütfen Tekrar Deneyin.</string>
+    <!-- Sign Up Fragment Strings -->
+    <string name="sign_up">Kayıt Ol</string>
+    <string name="already_have_an_account">Hesabınız Var Mı? Giriş Yap</string>
+    <string name="error_sign_up">Kayıt Başarısız. Lütfen Tekrar Deneyin.</string>
+    <!-- Sign In & Sign Up Joint -->
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="error_invalid_email">Lütfen Geçerli Bir Email Adresi Girin.</string>
+    <string name="error_invalid_password_length">Şifre En Az 6 Karakter Olmalıdır.</string>
+    <!-- Bottom Navigation Bar -->
+    <string name="home_fragment_name">Anasayfa</string>
+    <string name="search_fragment_name">Ara</string>
+    <string name="cart_fragment_name">Sepet</string>
+    <string name="favorites_fragment_name">Favorilerim</string>
+    <string name="profile_fragment_name">Profil</string>
+    <!-- Home Fragment Strings -->
+    <string name="on_sale_title">Kampanyalı Kitaplar</string>
+    <string name="products_title">Tüm Kitaplar</string>
+    <!-- Product Detail Fragment Strings -->
+    <string name="add_to_cart_button">Sepete Ekle</string>
+    <string name="warning_running_out">Tükeniyor…</string>
+    <string name="alert_added_to_cart">Ürün Sepete Eklendi.</string>
+    <string name="alert_already_added_to_cart">Ürün Sepetinizde Mevcut.</string>
+    <!-- Cart Fragment Strings -->
+    <string name="confirm_cart_button">Sepeti Onayla</string>
+    <string name="delete_all_cart_items">Tümünü Sil</string>
+    <string name="empty_cart_text">Sepetinizde Ürün Bulunmamaktadır…</string>
+    <string name="alert_empty_cart">Sepetinizdeki Tüm Ürünler Silindi.</string>
+    <!-- Cart & Product Detail Joint -->
+    <string name="error_unexpected">Beklenmeyen Bir Hata Oluştu.</string>
+    <string name="failed_request">İstek Başarısız.</string>
+    <!-- Payment Fragment Strings -->
+    <string name="delivery_address">Teslimat Adresi</string>
+    <string name="card_info">Kart Bilgileri</string>
+    <string name="complete_payment_button">Ödemeyi Tamamla</string>
+    <string name="error_empty_field">Lütfen Boş Alan Bırakmayınız.</string>
+    <string name="error_invalid_card_number_digit">Kart Numaranız 16 Haneli Olmalıdır.</string>
+    <string name="error_invalid_cvc_digit">CVC 3 Haneli Olmalıdır.</string>
+    <string name="error_invalid_month_digit">Ay Bilgisi 2 Haneli Olmalıdır.</string>
+    <string name="error_invalid_year_digit">Yıl Bilgisi 4 Haneli Olmalıdır.</string>
+    <!-- Success Fragment Strings -->
+    <string name="back_to_home_button">Alışverişe Devam Et</string>
+    <string name="payment_successful">Ödemeniz Onaylandı</string>
+    <!-- Search Fragment Strings -->
+    <string name="query_hint">Kitap, Yazar veya Kategori Ara</string>
+    <!-- Favorites Fragment Strings -->
+    <string name="empty_favorites_text">Favorileriniz Henüz Boş…</string>
+    <!-- Profile Fragment Strings -->
+    <string name="user_name">İsim</string>
+    <string name="user_surname">Soyisim</string>
+    <string name="user_phone_number">Cep Telefonu</string>
+    <string name="btn_save">Kaydet</string>
+    <string name="btn_sign_out">Çıkış Yap</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tekhelet_blue">#471AA0</color>
+    <color name="fab_scroll_up">#CDC7E5</color>
+    <color name="warning_color">#A11A1A</color>
+    <color name="border_color">#CCCCCC</color>
+    <color name="history_category">#CBF4B9</color>
+    <color name="literature_category">#D9F0FF</color>
+    <color name="children_category">#FCC5EE</color>
+    <color name="art_category">#D8CAF7</color>
+    <color name="comic_category">#F8C462</color>
+</resources>
